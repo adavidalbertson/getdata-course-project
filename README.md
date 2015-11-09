@@ -26,5 +26,5 @@ After the script is run, four tables will be available in the environment:
   - 'HAR_data_test': the tidied test dataset
   - 'HAR_data_means': the tidied and summarized dataset (mean of each variable by subject and activity)
 
-Additionally, the original dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip will have been downloaded and unzipped. The summarized dataset will be written to 'HAR_data_means.txt'. 
+Additionally, the original dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip will have been downloaded and unzipped. The summarized dataset will be written to 'HAR_data_means.txt', and the complete index of column names will be written to 'features.txt'. 
 
